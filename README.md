@@ -10,3 +10,7 @@ DealGO เป็น Application ที่ใช้สำหรับการห
 
 ภาพรวมของ project
   1. มีการออกแบบด้วย figma
+
+
+คลิปการทดสอบ application
+https://youtu.be/jE7wB_FwwKo
